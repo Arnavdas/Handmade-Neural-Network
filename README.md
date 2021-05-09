@@ -20,3 +20,4 @@ A vanilla Neural Network made from scratch using numpy libraries mostly to class
 + https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795
 
 
+Note that as of now github doesn't render notebooks properly so you can take the links of these notebooks(just open the notebooks above and copy the link in the address bar) and paste it in [nbviewer](https://nbviewer.jupyter.org/) searchbar
